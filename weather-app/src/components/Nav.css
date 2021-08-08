@@ -1,0 +1,32 @@
+#logo{
+  margin-right: 5px;
+ 
+}
+
+.navbar{
+  color: #fff;
+  background: linear-gradient(to bottom,rgb(27, 140, 146), rgb(13, 29, 100));
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+.navbar-brand{
+  color: #fff;
+  
+}
+
+.navbar-brand img{
+  background: none;
+}
+
+
+.about-me{
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: 500;
+  
+}
+.about-me:hover{
+  color: rgb(212, 214, 240);
+
+}

@@ -1,0 +1,22 @@
+.city{
+    padding: 30px;
+    margin: auto;
+    margin-top: 25px;
+    
+    background: url('https://img.freepik.com/vector-gratis/fondo-nube-cielo-pastel-acuarela-pintada-mano_41066-1948.jpg?size=626&ext=jpg') no-repeat;
+    border: none;
+    border-radius: 15px;
+
+}
+
+
+.info{
+    align-self: center;
+    color: #000;
+    margin-top: 5px;
+    line-height: 1.9;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}

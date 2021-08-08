@@ -1,0 +1,15 @@
+body{
+  height: 100vh;
+  background: linear-gradient(to bottom, rgb(20, 139, 134), transparent);
+
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,13 @@
+.cards {
+  /* background: linear-gradient(to bottom, rgb(12, 99, 94), rgb(25, 247, 236)); */
+  background: url('https://img.freepik.com/vector-gratis/fondo-nube-cielo-pastel-acuarela-pintada-mano_41066-1948.jpg?size=626&ext=jpg') no-repeat;
+  background-size: cover;  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+  border-radius: 50px;
+
+
+  
+}

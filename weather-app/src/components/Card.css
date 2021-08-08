@@ -1,0 +1,42 @@
+.card {
+  
+  background:linear-gradient(to bottom,rgb(53, 214, 206), transparent );
+  margin: 20px;
+  width: 18rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  font-weight: 600;
+  font-family: 'Roboto Slab', serif;
+  border: none;
+  border-radius: 15px;
+ 
+ 
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: #000;
+  font-weight: 700;
+  
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.btn{
+  background-color:rgb(13, 29, 100);
+  border: none;
+}
+
+.btn:hover{
+  background-color: rgb(13, 138, 131);
+}
+
